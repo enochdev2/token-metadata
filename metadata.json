@@ -2,6 +2,7 @@
     "name": "SUSDT",
     "symbol": "SUSDT",
     "description": "Sol USDT token",
+    "decimals": 6,
     "image": "https://raw.githubusercontent.com/enochdev2/token-metadata/main/IMG_20241117_184550_409.jpg"
 
 }
